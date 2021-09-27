@@ -1,8 +1,14 @@
 {
-    "usuarios": [
-        {
-            "name": "Fagner",
-            "ranking": 10
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "name": "Fagner",
+      "ranking": 10
+    },
+    {
+      "name": "Fagner",
+      "ranking": 15,
+      "id": 2
+    }
+  ]
 }
