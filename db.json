@@ -1,14 +1,19 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Fagner",
-      "ranking": 10
+      "name": "FAGNER",
+      "ranking": 10,
+      "id": 1
     },
     {
-      "name": "Fagner",
-      "ranking": 15,
+      "name": "MILK",
+      "ranking": 11,
       "id": 2
+    },
+    {
+      "name": "TETE",
+      "ranking": 9,
+      "id": 3
     }
   ]
 }
